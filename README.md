@@ -1,4 +1,4 @@
-# era5-correlation-video
+# ERA5 spatial correlation: source code
 Source code for the video https://www.youtube.com/watch?v=xpBijQev-4s
 
 [![Youtube video](http://img.youtube.com/vi/xpBijQev-4s/0.jpg)](http://www.youtube.com/watch?v=xpBijQev-4s)
